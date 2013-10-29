@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MainActivity -->
+    <string name="app_name">API_Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnOpenEnterText">Display Text</string>
+    <string name="btnOpenSendText">Send Text</string>
+    <string name="edtOpenSendText">Please enter a Text</string>
+
+    <!-- EnterTextActiviy -->
+    <string name="title_activity_enter_text">Please Enter a Text</string>
+    <string name="btnEnterText">Send</string>
+    <string name="edtText">Please enter a Text</string>
+    <string name="lblShowText">No Text entered yet</string>
+
+    <!-- SendTextActiviy -->
+    <string name="title_activity_send_text">Text received from Main Activity</string>
+    <string name="title_activity_display_message">Countdown</string>
+
+
+    <!-- TouchCircleActivity -->
+    <string name="title_activity_touch_circle">TouchCircleActivity</string>
+    <string name="btnOpenDrawCircle">Draw Circle</string>
+    <string name="edttouchcircleinfo">Touch Screen to draw a Circle at a random Position</string>
+
+</resources>
